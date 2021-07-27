@@ -1,9 +1,10 @@
 # Hi there 👋! I'm Kshitij👦🤙
 
-[![Linkedin Badge](https://img.shields.io/badge/-kshitijsangar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-sangar/)](https://www.linkedin.com/in/kshitij-sangar/)
+[![Linkedin Badge](https://img.shields.io/badge/-KshitijSangar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-sangar/)](https://www.linkedin.com/in/kshitij-sangar/)
 [![Instagram Badge](https://img.shields.io/badge/-_.h.o.r.i.z.o.n._-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/_.h.o.r.i.z.o.n._//)](https://www.instagram.com/_.h.o.r.i.z.o.n._/)
-[![Youtube Badge](https://img.shields.io/badge/-kshitijsangar-red?style=plastic-square&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UC6NSe-vwoXKLZx03lj7_F3A)](https://www.youtube.com/channel/UC6NSe-vwoXKLZx03lj7_F3A)
+[![Youtube Badge](https://img.shields.io/badge/-KshitijSangar-red?style=plastic-square&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UC6NSe-vwoXKLZx03lj7_F3A)](https://www.youtube.com/channel/UC6NSe-vwoXKLZx03lj7_F3A)
 
+## About:
 - 🏆 Microsoft Learn Student Ambassador (Beta)
 - 🌟 Google Cloud Ready Facilitator 2021
 - 👑 Developer's Clud Lead 2020
@@ -16,11 +17,12 @@
 <br>
 
 
-  
-### Buy me a coffee: [<img align="left" alt="KshitijSangar217 | Buy me a Coffee" width="22px" src="https://d1fdloi71mui9q.cloudfront.net/82c6vAUqTGOMoVlhboqR_d1A1nvlbsrv2kWFW" />][buyMeACoffee]
+### 🤩 Found my profile helpful?
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kshitijsangar)
 
-
-
+<br>
+ 
+### Thank you for Visiting😊
 
 
 
