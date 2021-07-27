@@ -7,8 +7,8 @@
 ## About:
 - 🏆 Microsoft Learn Student Ambassador (Beta)
 - 🌟 Google Cloud Ready Facilitator 2021
-- 👑 Developer's Clud Lead 2020
-- 🔭 I'm constantly <b>Learning | Upgrading | Implementating | Along with Failures😉<b/>
+- 👑 Developer's Club Lead 2020
+- 🔭 I'm constantly <b>Learning | Upgrading | Implementing | Along with Failures😉<b/>
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug. Easy life back then.
  
 <br><br>
