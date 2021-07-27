@@ -1,19 +1,24 @@
 # Hi there 👋! I'm Kshitij👦🤙
 
-- 🔭 I'm constantly <b>Learning | Upgrading | Implementating | And how can we forget Failures😉<b/>
+[![Linkedin Badge](https://img.shields.io/badge/-kshitijsangar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-sangar/)](https://www.linkedin.com/in/kshitij-sangar/)
+[![Instagram Badge](https://img.shields.io/badge/-_.h.o.r.i.z.o.n._-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/_.h.o.r.i.z.o.n._//)](https://www.instagram.com/_.h.o.r.i.z.o.n._/)
+[![Youtube Badge](https://img.shields.io/badge/-kshitijsangar-red?style=plastic-square&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UC6NSe-vwoXKLZx03lj7_F3A)](https://www.youtube.com/channel/UC6NSe-vwoXKLZx03lj7_F3A)
+
+- 🏆 Microsoft Learn Student Ambassador (Beta)
+- 🌟 Google Cloud Ready Facilitator 2021
+- 👑 Developer's Clud Lead 2020
+- 🔭 I'm constantly <b>Learning | Upgrading | Implementating | Along with Failures😉<b/>
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug. Easy life back then.
-  
-  ---
-<img align="left" alt="Kshitij's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KshitijSangar217&show_icons=true&hide_border=true&theme=tokyonight" />
+ 
+<br><br>
+![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KshitijSangar217&show_icons=true&hide_border=true&theme=tokyonight)
+<br>
+<br>
 
----
-  
-### Connect me 👇:
 
-[<img align="left" alt="KshitijSangar217 | Buy me a Coffee" width="22px" src="https://d1fdloi71mui9q.cloudfront.net/82c6vAUqTGOMoVlhboqR_d1A1nvlbsrv2kWFW" />][buyMeACoffee]
-[<img align="left" alt="KshitijSangar217 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="KshitijSangar217 | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
-[<img align="left" alt="KshitijSangar217 | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
+  
+### Buy me a coffee: [<img align="left" alt="KshitijSangar217 | Buy me a Coffee" width="22px" src="https://d1fdloi71mui9q.cloudfront.net/82c6vAUqTGOMoVlhboqR_d1A1nvlbsrv2kWFW" />][buyMeACoffee]
+
 
 
 
